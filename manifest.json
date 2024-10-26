@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Enes Uygur - Github",
+  "theme": {
+    "colors": {
+      "frame": [18, 18, 18],
+      "frame_inactive": [18, 18, 18],
+      "frame_incognito": [10, 10, 10],
+      "frame_incognito_inactive": [10, 10, 10],
+      "toolbar": [24, 24, 24],
+      "tab_background_text": [180, 180, 180],
+      "tab_text": [230, 230, 230],
+      "background_tab": [14, 14, 14],
+      "bookmark_text": [230, 230, 230],
+      "ntp_background": [24, 24, 24],
+      "ntp_text": [255, 255, 255],
+      "ntp_link": [20, 20, 230],
+      "button_background": [255, 0, 0],
+      "tab_background": [255, 0, 0],
+      "omnibox_background": [18, 18, 18],
+      "omnibox_text": [200, 200, 200]
+    },
+    "images": {
+      "theme_frame": "images/bg.png",
+      "theme_window_control_background": "images/bg.png"
+    },
+    "tints": {
+      "buttons": [0.33, 0.5, 0.66],
+      "frame_inactive": [0.5, 0.5, 0.5],
+      "background_tab": [0.5, 0.5, 0.5],
+      "background_tab_inactive": [1, 1, 0.6]
+    },
+    "properties": {
+      "ntp_background_alignment": "bottom",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": true
+    }
+  }
+}
